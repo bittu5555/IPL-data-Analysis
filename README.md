@@ -1,4 +1,7 @@
 # IPL-data-Analysis
+![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/27005635-d08c-4b42-b433-db85afb47fc3)
+
+
 Over the past 15 years, the Indian Premier League (IPL) has undergone a dynamic transformation. From 2008 to 2023, the league has witnessed remarkable changes in cricketing strategies, player performances, and team dynamics. Data analysis during this period has unveiled intriguing trends.
 
 The data has highlighted the rise of dominant franchises like Mumbai Indians and Chennai Super Kings, with their consistent performances and strategic team compositions. Player statistics have revealed the emergence of cricketing superstars like Virat Kohli, Rohit Sharma, and AB de Villiers, who have left an indelible mark on the league.
@@ -9,4 +12,4 @@ Through meticulous analysis, the IPL data from 2008 to 2023 has provided invalua
 
 
 
-                      ![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/27005635-d08c-4b42-b433-db85afb47fc3)
+                      
