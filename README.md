@@ -6,3 +6,4 @@ The data has highlighted the rise of dominant franchises like Mumbai Indians and
 Furthermore, the analytics have delved into the impact of foreign players, tactical innovations in batting and bowling, and the influence of home conditions on team strategies. The data has also shed light on match outcomes, identifying key factors contributing to victories and defeats.
 
 Through meticulous analysis, the IPL data from 2008 to 2023 has provided invaluable insights into the evolving dynamics of T20 cricket at both individual and team levels.
+![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/28206f40-70b3-45b9-b583-def1087a8752)
