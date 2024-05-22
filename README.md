@@ -9,4 +9,4 @@ Through meticulous analysis, the IPL data from 2008 to 2023 has provided invalua
 
 
 
-![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/27005635-d08c-4b42-b433-db85afb47fc3)
+                      ![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/27005635-d08c-4b42-b433-db85afb47fc3)
