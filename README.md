@@ -1,5 +1,5 @@
 # IPL-data-Analysis
-![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/27005635-d08c-4b42-b433-db85afb47fc3)          ![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/b0dd4a37-b748-4e7b-8ce3-dba3e945219b)     ![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/b0dd4a37-b748-4e7b-8ce3-dba3e945219b)     
+![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/27005635-d08c-4b42-b433-db85afb47fc3)          ![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/b0dd4a37-b748-4e7b-8ce3-dba3e945219b)    ![Uploading image.png…]()
 
 
 
