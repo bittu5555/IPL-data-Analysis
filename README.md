@@ -13,6 +13,11 @@ Furthermore, the analytics have delved into the impact of foreign players, tacti
 
 Through meticulous analysis, the IPL data from 2008 to 2023 has provided invaluable insights into the evolving dynamics of T20 cricket at both individual and team levels.
 
+**Result**
+![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/5c1d5e4f-2673-4862-9e5f-fc426e139c1a)
 
+![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/5b1c36f5-dc35-496b-a65f-71c92603d22d)
 
-                      
+![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/5a67333f-c236-45a3-827e-c31b9fd3f111)
+
+![image](https://github.com/bittu5555/IPL-data-Analysis/assets/106305917/afb99466-b6a0-4dd9-8ec2-dfc30853db41)
